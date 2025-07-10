@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: api-cursos
+    runtime: dotnet
+    repo: https://github.com/RenzoAyvar/ApiUniversidad.git
+    branch: main
+    buildCommand: dotnet publish -c Release -o out
+    startCommand: dotnet out/appComercial.dll
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
