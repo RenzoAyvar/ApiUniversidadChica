@@ -438,3 +438,4 @@ D:\Programas_Varios\appComerciales\appComercial\obj\Debug\net8.0\appComercial.pd
 D:\Programas_Varios\appComerciales\appComercial\obj\Debug\net8.0\appComercial.genruntimeconfig.cache
 D:\Programas_Varios\appComerciales\appComercial\obj\Debug\net8.0\ref\appComercial.dll
 D:\Programas_Varios\appComerciales\appComercial\obj\Debug\net8.0\appComercial.sourcelink.json
+D:\Programas_Varios\appComerciales\appComercial\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

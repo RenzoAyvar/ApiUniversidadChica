@@ -276,6 +276,9 @@
   "components": {
     "schemas": {
       "Curso": {
+        "required": [
+          "nombre"
+        ],
         "type": "object",
         "properties": {
           "id": {
